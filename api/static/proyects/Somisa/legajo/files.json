@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Diurno_pos.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Somisa/legajo/Diurno_pos.jpg",
+        "message": ""
+    },
+    {
+        "name": "Noche_pos.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Somisa/legajo/Noche_pos.jpg",
+        "message": ""
+    },
+    {
+        "name": "Alero_pos.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Somisa/legajo/Alero_pos.jpg",
+        "message": ""
+    },
+    {
+        "name": "Detalle_Alero_vicario_somisa.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "El detalle constructivo del alero"
+    },
+    {
+        "name": "VICARIO_Guillermo.dwg",
+        "url": "https://gisresources.com/wp-content/uploads/2016/09/dwg-icon.png",
+        "message": "Planos Actuales"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Belgrano",
+        "client": "GVicario32",
+        "admin": "MUnzue60",
+        "date": "2021-03-11",
+        "endpoint": "Actualidad"
+    },
+    {
+        "name": "Somisa",
+        "client": "GVicario32",
+        "admin": "MUnzue60",
+        "date": "2020-12-24",
+        "endpoint": "Actualidad"
+    },
+    {
+        "name": "Alma Verde",
+        "client": "EMiravalles70",
+        "admin": "MUnzue60",
+        "date": "2020-07-09",
+        "endpoint": "Actualidad"
+    }
+]

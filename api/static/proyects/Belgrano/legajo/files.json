@@ -1,0 +1,52 @@
+[
+    {
+        "name": "1_21_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/1_21_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "1_22_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/1_22_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "1_24_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/1_24_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "1_25_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/1_25_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "1_26_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/1_26_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "2.1_2_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/2.1_2_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "2_8_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/2_8_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "2_17_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/2_17_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "2_18_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/2_18_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "2_19_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/legajo/2_19_-_Foto.jpg",
+        "message": ""
+    }
+]

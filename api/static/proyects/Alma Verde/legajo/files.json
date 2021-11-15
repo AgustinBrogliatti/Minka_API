@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Diurno_1_-_Photo.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Diurno_1_-_Photo.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_2_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Diurno_2_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_4_-_Foto_2.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Diurno_4_-_Foto_2.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_5_-_Foto_2.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Diurno_5_-_Foto_2.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_7_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Diurno_7_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_11_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Nocturno_11_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_12_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Nocturno_12_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_14_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Nocturno_14_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_16_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Nocturno_16_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_16_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/legajo/Nocturno_16_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "00_Miravalles_PB.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Planta Baja"
+    },
+    {
+        "name": "01_Miravalles_PA.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Planta Alta"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "00_planta_ubicacion_vicario.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Te mando la info que pidi\u00f3 el country"
+    },
+    {
+        "name": "Vicario_Municipal_Balance_Superficie.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Balance"
+    },
+    {
+        "name": "Vicario_Municipal_Cortes_Sanitaria.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Inst Sanitarias"
+    },
+    {
+        "name": "Vicario_Municipal_Planta_Estructuras.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Estructuras"
+    },
+    {
+        "name": "Vicario_Municipal_Planta_Sanitaria.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Planta Sanitarias"
+    }
+]

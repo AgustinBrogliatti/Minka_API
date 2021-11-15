@@ -1,0 +1,22 @@
+[
+    {
+        "name": "WhatsApp_Image_2021-01-28_at_4.44.05_PM_1.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/anteproyecto/WhatsApp_Image_2021-01-28_at_4.44.05_PM_1.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2021-01-28_at_4.44.05_PM_2.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/anteproyecto/WhatsApp_Image_2021-01-28_at_4.44.05_PM_2.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2021-01-28_at_4.44.05_PM_3.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/anteproyecto/WhatsApp_Image_2021-01-28_at_4.44.05_PM_3.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2021-01-28_at_4.44.05_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/anteproyecto/WhatsApp_Image_2021-01-28_at_4.44.05_PM.jpeg",
+        "message": ""
+    }
+]

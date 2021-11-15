@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Eugeniop_Sky.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Eugeniop_Sky.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_1_-_Photo_Lighting.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Diurno_1_-_Photo_Lighting.jpg",
+        "message": "Te muestro como quedar\u00eda el volumen"
+    },
+    {
+        "name": "Diurno_2_-_Foto_Lighting.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Diurno_2_-_Foto_Lighting.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_4_-_Foto_Lighting.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Diurno_4_-_Foto_Lighting.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_7_-_Foto_Lighting.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Diurno_7_-_Foto_Lighting.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_6_-_Foto_Lighting.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Diurno_6_-_Foto_Lighting.jpg",
+        "message": ""
+    }
+]

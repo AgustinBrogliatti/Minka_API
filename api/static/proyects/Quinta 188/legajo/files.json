@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Quinta_Mollo_Completo.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Legajo completo"
+    },
+    {
+        "name": "Diruno_1_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Diruno_1_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_2_-_Photo.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Diurno_2_-_Photo.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_3_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Diurno_3_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Diurno_4_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Diurno_4_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_2_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Nocturno_2_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_3_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Nocturno_3_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_4_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Nocturno_4_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_5_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Nocturno_5_-_Foto.jpg",
+        "message": ""
+    },
+    {
+        "name": "Nocturno_6_-_Foto.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/legajo/Nocturno_6_-_Foto.jpg",
+        "message": ""
+    }
+]

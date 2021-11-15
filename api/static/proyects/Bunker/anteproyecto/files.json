@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Emilio_Pastor_FINAL.dwg",
+        "url": "https://gisresources.com/wp-content/uploads/2016/09/dwg-icon.png",
+        "message": "Para mandar a la municipalidad"
+    },
+    {
+        "name": "1.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/anteproyecto/1.jpg",
+        "message": ""
+    },
+    {
+        "name": "2.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/anteproyecto/2.jpg",
+        "message": ""
+    },
+    {
+        "name": "3.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/anteproyecto/3.jpg",
+        "message": ""
+    },
+    {
+        "name": "4.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/anteproyecto/4.jpg",
+        "message": ""
+    },
+    {
+        "name": "5.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/anteproyecto/5.jpg",
+        "message": ""
+    }
+]

@@ -23,5 +23,10 @@
         "name": "Vicario_Municipal_Planta_Sanitaria.pdf",
         "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
         "message": "Planta Sanitarias"
+    },
+    {
+        "name": "Cartel_imagenes.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Belgrano/documentacion/Cartel_imagenes.jpg",
+        "message": "El cartel para el country"
     }
 ]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "WhatsApp_Image_2021-09-21_at_9.12.46_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/ideas/WhatsApp_Image_2021-09-21_at_9.12.46_PM.jpeg",
+        "message": "Este tipo de escalera me gustaria"
+    },
+    {
+        "name": "PORTON_2.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/ideas/PORTON_2.jpg",
+        "message": "Te animas a un port\u00f3n asi?"
+    },
+    {
+        "name": "Scanner_Planta.pdf",
+        "url": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+        "message": "Hice un boceto del como quedar\u00eda"
+    }
+]

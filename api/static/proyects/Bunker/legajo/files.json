@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Pastor_1.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/legajo/Pastor_1.jpg",
+        "message": "Ya esta el nuevo dise\u00f1o"
+    },
+    {
+        "name": "Pastor_3.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/legajo/Pastor_3.jpg",
+        "message": ""
+    },
+    {
+        "name": "Pastor_5.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/legajo/Pastor_5.jpg",
+        "message": ""
+    },
+    {
+        "name": "Pastor_6.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/legajo/Pastor_6.jpg",
+        "message": ""
+    },
+    {
+        "name": "Pastor_7.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Bunker/legajo/Pastor_7.jpg",
+        "message": ""
+    }
+]

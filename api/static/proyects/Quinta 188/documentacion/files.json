@@ -1,0 +1,42 @@
+[
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.49_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.49_PM.jpeg",
+        "message": "Te envi\u00f3 fotos del lugar"
+    },
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.50_PM_1.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.50_PM_1.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.51_PM_1.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.51_PM_1.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.53_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.53_PM.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.53_PM_1.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.53_PM_1.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.51_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.51_PM.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2020-12-12_at_3.42.52_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2020-12-12_at_3.42.52_PM.jpeg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2021-01-06_at_5.04.52_PM_4.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Quinta 188/documentacion/WhatsApp_Image_2021-01-06_at_5.04.52_PM_4.jpeg",
+        "message": ""
+    }
+]

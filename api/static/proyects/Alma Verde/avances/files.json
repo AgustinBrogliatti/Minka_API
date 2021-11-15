@@ -28,5 +28,20 @@
         "name": "Diurno_6_-_Foto_Lighting.jpg",
         "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/Diurno_6_-_Foto_Lighting.jpg",
         "message": ""
+    },
+    {
+        "name": "1.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/1.jpg",
+        "message": ""
+    },
+    {
+        "name": "2.jpg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/2.jpg",
+        "message": ""
+    },
+    {
+        "name": "WhatsApp_Image_2021-10-28_at_5.25.38_PM.jpeg",
+        "url": "http://localhost:4000/api/v1/uploads/Alma Verde/avances/WhatsApp_Image_2021-10-28_at_5.25.38_PM.jpeg",
+        "message": "Ya llego la maqueta 3D"
     }
 ]

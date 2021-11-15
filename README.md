@@ -1,4 +1,4 @@
-# Minka 👷
+# Minka API 👷
 ## Plataforma de comunicación entre _arquitectos_ y _clientes_ 🔨
 ---
 ## Guía de Instalación 📋
